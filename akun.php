@@ -1,5 +1,5 @@
 <?php 
-include 'koneksi.php'; 
+include 'koneksi.php'; nia
 
 // =========================================================================
 // PAKSA UPDATE KATEGORI COA LAUNDRY LENGKAP (Disesuaikan dengan Nama Klasifikasi Akuntansi)
