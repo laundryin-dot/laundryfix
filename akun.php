@@ -2,7 +2,7 @@
 include 'koneksi.php'; nia
 
 // =========================================================================
-// PAKSA UPDATE KATEGORI COA LAUNDRY LENGKAP (Disesuaikan dengan Nama Klasifikasi Akuntansi)
+// NIA PAKSA UPDATE KATEGORI COA LAUNDRY LENGKAP (Disesuaikan dengan Nama Klasifikasi Akuntansi)
 // =========================================================================
 $coa_laundry = [
     // 1. ASET (Disamakan menjadi 'Aset' agar terbaca sempurna)
